@@ -22,3 +22,7 @@ Know Bugs or issue :
   -Do not recognize Xinput.
   -Can not manage more than one controller.
   -The program will pick the first controller that it find, so unplugged your controller that you don't need.
+  -Sometimes a little bug appear an a click can be missed
+  
+It was design for console mode at the first, when i saw that's impossible to click in this mode i "Suited" the code for Windowed mode.
+So, it's not "proper code".
